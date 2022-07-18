@@ -38,16 +38,12 @@ public class StepDefenition {
 	@Then("User validates successfull login")
 	public void user_validates_successfull_login() {
 	    System.out.println("Completed");
-<<<<<<< HEAD
+	    System.out.println("line added by a");
+	    System.out.println("line added by a1");
+	    System.out.println("line added by a2");
 	    System.out.println("b updated");
 	    System.out.println("b1 updated");
 	    System.out.println("b2 updated");
 	    System.out.println("b3 updated");
-	    
-=======
-	    System.out.println("line added by a");
-	    System.out.println("line added by a1");
-	    System.out.println("line added by a2");
->>>>>>> 831a3bdf11c5c9996406d57f4c95f3b1f8652216
 	}
 }
